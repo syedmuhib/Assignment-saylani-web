@@ -1,0 +1,650 @@
+img{
+    width:25px;
+    height:20px;
+    position: relative;
+    left: 40px;
+}
+.line1p1{
+background-color:rgb(60, 60, 172);
+width: 343px;
+height: 20px;
+float: left;
+padding: 10px;
+
+
+}
+.line1p2{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(60, 60, 172);
+    width: 600px;
+    height: 20px;
+    float:left;
+    padding: 10px;
+    color: white;
+    text-align: center;
+  
+
+    
+    }
+    .line1p3{
+        background-color:rgb(60, 60, 172);
+        width: 330px;
+        height: 20px;
+        float: left;
+        padding: 10px;
+
+        }
+
+    img.saylogo{
+        position: relative;
+        left: 33px;
+        width: 220px;
+        height: 60px;
+        clear: both;
+    }
+    .line2p1{
+        clear: both;
+        width: 543px;
+        height: 400px;
+        float: left;
+        height: 60px;
+        padding: 10px;
+    }
+
+   .line2p2{
+       list-style: none;
+       float: left;
+       height: 50px;
+       width: 740px;
+       padding: 15px;
+    
+   }
+    
+   .line2p2 ul li{
+       display: inline;
+       margin: 14px;
+       color: black;
+   }
+   
+  
+   .saypic{
+       clear: both;
+       position: relative;
+       left: 0px;
+       height: 400px;
+       width: 1333px;
+   }
+   .line3{
+       clear: both;
+       width:1340px;
+       height: 400px;
+   }
+   .line4{
+       position: relative;
+       left: 70px;
+       clear: both;
+       width: 1200px;
+       height: 20px;
+       background-color:rgb(60, 60, 172);
+       padding: 10px;
+       color: white;
+}    
+
+h1{
+color:rgb(60, 60, 172) ;
+text-align: center;
+}
+.iimg{
+    position: fixed;
+    bottom: 5px;
+    left: 1300px;
+    width: 40px;
+    height: 40px;
+    background-color:rgb(185, 177, 177);
+   
+}
+b{
+    color: rgb(149, 240, 13);
+}
+.line6{
+    text-align: center;
+    position: relative;
+    left: -45px;
+
+    
+}
+.cimg{
+    width: 50px;
+    height: 50px;
+}
+p{
+    color:black;
+    line-height: 1.5em;
+    font-size: 17px;
+    margin-bottom: 30px;
+    text-align: justify;
+    word-spacing:-2px;
+    font-weight: lighter;
+    
+}
+.line7{
+    width: 75%; 
+    position: relative;
+    left: 175px;
+    
+}
+.line8p1{
+    clear: both;
+   background-color: rgb(101, 101, 231);
+   height: 250px;
+   padding: 30px;
+   width: 300px;
+   float: left;
+   
+}
+.k{
+    position: relative;
+    left: 80px;
+    width: 40px;
+    height: 50px;
+}
+.kt{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    left: 36px;
+}
+.kt2{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    position: relative;
+    left: -8px;
+
+}
+.line8p2{
+    float: left;
+    background-color: rgb(101, 101, 231);
+    height: 250px;
+    width: 270px;
+    padding: 30px;
+}
+.ad{
+    width: 40px;
+    height: 50px;
+    position: relative;
+    left: 100px;
+    
+    
+}
+.adt{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    left:80px;
+}
+.ad2{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    position: relative;
+    left: 9px;
+}
+.line8p3{
+    float: left;
+    background-color:rgb(101, 101, 231);
+    height: 250px;
+    width: 270px;
+    padding: 30px;
+
+}
+.hos{
+    width: 40px;
+    height: 50px;
+    position: relative;
+    left: 135px;
+
+}
+.host{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    left:100px;
+
+}
+.hos2{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    position: relative;
+    left: 75px;
+    
+}
+.line8p4{
+    float: left;
+    background-color:rgb(101, 101, 231);
+    height: 250px;
+    width: 250px;
+    padding: 30px;
+
+}
+.edu{
+    width: 40px;
+    height: 50px;
+    position: relative;
+    left: 135px;
+
+}
+.edut{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    left:90px;
+
+}
+.edu2{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    position: relative;
+    left: 55px;
+    
+}
+.onsad{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 95px;
+
+}
+.line10p1{
+    background-color:white;
+    width: 260px;
+    padding: 50px;
+    height: 100px;
+    position: relative;
+    left: 85px;
+    float: left;
+    box-shadow: 2px 2px 7px grey, -2px -2px 7px grey;
+}
+.onsadt{
+    position: relative;
+    left: 35px;
+    font-size: 20px;
+    color: rgb(101, 101, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;   
+}
+.wel{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 95px;
+
+}
+.line10p2{
+    background-color:white;
+    width: 260px;
+    padding: 50px;
+    height: 100px;
+    position: relative;
+    left: 135px;
+    float: left;
+    box-shadow: 2px 2px 7px grey, -2px -2px 7px grey;
+}
+.welt{
+    position: relative;
+    left: 70px;
+    font-size: 20px;
+    color: rgb(101, 101, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;   
+}
+.med{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 95px;
+
+}
+.line10p3{
+    background-color:white;
+    width: 260px;
+    padding: 50px;
+    height: 100px;
+    position: relative;
+    left: 185px;
+    float: left;
+    box-shadow: 2px 2px 7px grey, -2px -2px 7px grey;
+}
+.medt{
+    position: relative;
+    left: 70px;
+    font-size: 20px;
+    color: rgb(101, 101, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;   
+}
+.dast{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 95px;
+
+}
+.line11p1{
+    clear: both;
+    background-color:white;
+    width: 260px;
+    padding: 50px;
+    height: 100px;
+    position: relative;
+    left: 85px;
+    float: left;
+    box-shadow: 2px 2px 7px grey, -2px -2px 7px grey;
+    
+}
+.dastt{
+    position: relative;
+    left: 42px;
+    font-size: 20px;
+    color: rgb(101, 101, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;   
+}
+
+.ro{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 95px;
+
+}
+.line11p2{
+    background-color:white;
+    width: 260px;
+    padding: 50px;
+    height: 100px;
+    position: relative;
+    left: 135px;
+    float: left;
+    box-shadow: 2px 2px 7px grey, -2px -2px 7px grey;
+}
+.rot{
+    position: relative;
+    left: 70px;
+    font-size: 20px;
+    color: rgb(101, 101, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;   
+} 
+.education{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 95px;
+
+}
+.line11p3{
+    background-color:white;
+    width: 260px;
+    padding: 50px;
+    height: 100px;
+    position: relative;
+    left: 185px;
+    float: left;
+    box-shadow: 2px 2px 7px grey, -2px -2px 7px grey;
+}
+.educationt{
+    position: relative;
+    left: 70px;
+    font-size: 20px;
+    color: rgb(101, 101, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold; 
+    clear: both;  
+} 
+.MI{
+    position: relative;
+    left: -30px;
+    font-weight: bold;
+    
+}
+.line12p1{
+    background-color:white;
+    width: 800px;
+    float: left;
+    height:60px;
+
+
+}
+.line12p2{
+    float: left;
+    background-color:white;
+    width: 500px;
+    height: 60px;
+}
+.ue{
+    position: relative;
+    left: 30px;
+    font-size: 30px;
+    font-style: italic ;
+    clear: both;
+    ;
+}
+.hep{
+    width: 40px;
+    height: 40px;
+}
+
+.line13p1{
+    width: 120px;
+    background-color: rgb(226, 222, 222);
+    float: left;
+    position: relative;
+    left: 80px;
+}
+
+.line13p2{
+    float: left;
+    background-color: rgb(226, 222, 222);
+    width:220px ;
+    height: 44px;
+    position: relative;
+    left: 70px;
+
+}
+
+.hs{
+    width: 40px;
+    height: 40px;
+}
+.line13p3{
+    width: 120px;
+    background-color:rgb(226, 222, 222) ;
+    float: left;
+    position: relative;
+    left: 100px;
+}
+
+.line13p4{
+    float: left;
+    background-color:rgb(226, 222, 222) ;
+    width:220px ;
+    height: 44px;
+    position: relative;
+    left: 100px;
+}
+ 
+
+
+.il{
+    width: 40px;
+    height: 40px;
+}
+
+.line14p1{
+    width: 120px;
+    background-color: rgb(226, 222, 222);
+    float: left;
+    position: relative;
+    left: 80px;
+    clear: both;
+}
+
+.line14p2{
+    float: left;
+    background-color: rgb(226, 222, 222);
+    width:220px ;
+    height: 44px;
+    position: relative;
+    left: 70px;
+}
+
+
+.thar{
+    width: 40px;
+    height: 40px;
+}
+.line14p3{
+    width: 120px;
+    background-color:rgb(226, 222, 222) ;
+    float: left;
+    position: relative;
+    left: 100px;
+}
+
+.line14p4{
+    float: left;
+    background-color:rgb(226, 222, 222) ;
+    width:220px ;
+    height: 44px;
+    position: relative;
+    left: 100px;
+}
+.line14p5{
+    float: left;
+    width: 300px;
+    position: relative;
+    left: 300px;
+    background-color:white;
+    overflow: scroll;
+    height: 250px;
+}
+
+.imggal{
+    width: 220px;
+    height: 200px;
+    position: relative;
+    left: 120px;
+    
+}
+ 
+.callogo{
+    position: relative;
+    left: -5px;
+}
+
+.line16{
+    background-color: rgb(32, 31, 29);
+    padding: 100px;
+   color: seashell;
+   width: 350px;
+   float: left;
+   height: 230px;
+    
+    } 
+
+.endingp{
+    color: rgba(255, 255, 255, 0.63);
+}
+
+.line16p2{
+    float: left;
+    background-color: rgb(32, 31, 29);
+    padding: 70px;
+    height: 290px;
+    width: 240px;
+}
+
+.endingp2{
+    color: rgba(255, 255, 255, 0.63);
+}
+
+hr{
+    width: 300px;
+}
+
+.line16p3{
+    float: left;
+    background-color:rgb(32, 31, 29);
+    padding: 50px;
+    height: 330px;
+    width: 302px;
+}
+.imge{
+    position: relative;
+    left: -5px;
+}
+
+.lastline{
+    clear: both;
+    color: white;
+    background-color: rgb(101, 101, 231);
+    width: 1328px;
+    height: 50px;
+    padding: 2px;
+}
+
+.end{
+    color: white;
+    position: relative;
+    left: 80px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.rollno{
+    padding: 20px;
+    height: 50px;
+    background-color:black;
+
+}
+.design{
+    color:rgb(250, 137, 9);
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
